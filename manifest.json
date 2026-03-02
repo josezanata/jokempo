@@ -1,0 +1,17 @@
+{
+"name":"jokeno",
+"short_name":"joke",
+"start_url":"./",
+"display":"standalone",
+"background":"ffffff",
+"theme_color":"#0d6efd",
+"icons":[{
+    "src":"download.ong",
+    "size":"192x192",
+    "type":"image/png"
+},{
+    "src":"download.jpeg",
+    "size":"512x512",
+    "type":"image/png"
+}]
+}
